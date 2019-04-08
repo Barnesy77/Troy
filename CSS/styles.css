@@ -1,0 +1,140 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Arimo', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 5%;
+  padding-bottom: 30px;
+}
+p{
+  line-height: 2;
+}
+.profile {
+  padding-bottom: 30px;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  margin-right: 20px;
+  font-family: 'Arimo', sans-serif;
+}
+
+.footer-link:hover{
+  color:#EAF6F6;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding-bottom: 50px;
+}
+
+.profile {
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.problemsolver-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.transformer-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.btn {
+  color: white;
+  text-decoration: none;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  border-radius: 8px;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.tb-trademark {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
